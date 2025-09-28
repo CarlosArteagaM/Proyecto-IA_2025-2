@@ -1,0 +1,5 @@
+# Proyecto-IA_2025-2
+Curso Introducción a la IA - Universidad de Antioquia
+Estudiantes
+CARLOS MARIO ARTEAGA MEZA - INGENIERIA MECANICA - 1089196003
+SANTIAGO VILLA - INGENIERIA QUIMICA - 
