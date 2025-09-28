@@ -1,5 +1,10 @@
-# Proyecto-IA_2025-2
-Curso Introducción a la IA - Universidad de Antioquia
-Estudiantes
-CARLOS MARIO ARTEAGA MEZA - INGENIERIA MECANICA - 1089196003
-SANTIAGO VILLA - INGENIERIA QUIMICA - 
+# INTEGRANTES
+Santiago Herrera Villa
+santiago.herrera6@udea.edu.co
+CC. 1007346538
+Programa: Ingeniería Química
+
+Carlos Mario Arteaga Meza 
+cmario.arteaga1@udea.edu.co
+CC. 1089196003
+Programa: Ingeniería Mecánica
