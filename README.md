@@ -11,3 +11,13 @@ Programa: Ingeniería Mecánica
 
 LINK VIDEO ENTREGA 2
 https://youtu.be/-bPeL9sSCPU
+
+Preprocesado A : preprocesado inicial (Entrega 2) 
+
+Preprocesado B : Se eliminan columnas de baja correlación ('F_TIENELAVADORA','E_PAGOMATRICULAPROPIO')
+
+Modelo Solucion: RandomForest
+
+LINK VIDEO ENTRAGA FINAL
+https://youtu.be/yKf-4sYfhb0
+
